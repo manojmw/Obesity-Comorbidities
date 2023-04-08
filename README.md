@@ -1,6 +1,6 @@
 # Obesity and Obesity-related comorbidities
 
-This repository contains the data and code used in the paper - "Key genes and biological mechanisms linked to obesity shared across multiple obesity-related comorbidities identified by network analysis."
+This repository contains the data and code used in the paper - "Exploring the Molecular Basis of Obesity and Associated Comorbidities through Network Analysis and Bioinformatics Approaches."
 
 <br/>
 
