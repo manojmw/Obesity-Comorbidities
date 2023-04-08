@@ -7,7 +7,7 @@ This repository contains the data and code used in the paper - "Exploring the Mo
 - The directory **Data/** contains:
   * Disease-gene association data used in the study
   * Transcription factor-gene interaction data
-- The directory **Code/** contains script used for conducting the function enrichment and pathway analysis of hub genes.
+- The directory **Code/** contains script used for performing the functional enrichment and pathway analysis of hub genes.
 
 # References
 - Liu, Chun-Jie et al. “GSCA: an integrated platform for gene set cancer analysis at genomic, pharmacogenomic and immunogenomic levels.” Briefings in bioinformatics vol. 24,1 (2023): bbac558. doi:10.1093/bib/bbac558
